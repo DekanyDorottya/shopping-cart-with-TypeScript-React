@@ -12,8 +12,8 @@ The project is about a simple shop with cart system. You can add, remove items, 
 
 ## Screenshots
 
-![Alt text](public\imgs\screenshot1.png?raw=true "pic1")
-![Alt text](public\imgs\screenshot2.png?raw=true "pic1")
+![Alt text](https://github.com/DekanyDorottya/shopping-cart-with-kyle/blob/f328bd6ee8963bd942e94895f20624351f7d643d/public/imgs/screenshot1.png "pic1")
+![Alt text](https://github.com/DekanyDorottya/shopping-cart-with-kyle/blob/f328bd6ee8963bd942e94895f20624351f7d643d/public/imgs/screenshot2.png "pic1")
 
 ## Installation
 
