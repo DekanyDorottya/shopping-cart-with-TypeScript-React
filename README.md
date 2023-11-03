@@ -20,7 +20,7 @@ The project is about a simple shop with cart system. You can add, remove items, 
 1. Clone the repository:
 
    ```bash
-   git clone git@github.com:DekanyDorottya/shopping-cart-with-kyle.git
+   git clone git@github.com:DekanyDorottya/shopping-cart-with-TypeScript-React.git
    ```
 
 2. Change into the project directory:
